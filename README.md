@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/bcc1e2bf-8655-432f-ab1a-3ea9d9fbd377
 
 
 ## Notes on Optimization
-1. **On the Magnitude of the Learning Rate and the Stability of Gradient Descent (GD)**
+1. **On the Magnitude of the Learning Rate and the Stability of Gradient Descent (GD)**  
    **Application:** Solving linear regression using GD
    **Code and notes:** [GD Stability](https://github.com/Mekahou/Notes/blob/main/optimization/on_learning_rate.ipynb)
 
