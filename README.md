@@ -15,7 +15,7 @@ To eventually turn them into a graduate-level course on ML and computational eco
 https://github.com/user-attachments/assets/2ed81470-66bc-4d11-b694-e7f28d2e939d
 
 2. **Derivative of a neural network with respect to the input**  
-   **Application:** Solving a simple ordinary differential equation
+   **Application:** Solving a simple ordinary differential equation  
    **Code and notes:** [Derivative w.r.t. input: ODE](https://github.com/Mekahou/Notes/blob/main/deep_learning/derivative_wrt_input.ipynb)
 
 https://github.com/user-attachments/assets/bcc1e2bf-8655-432f-ab1a-3ea9d9fbd377
