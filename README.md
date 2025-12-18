@@ -7,9 +7,9 @@ These are my current, idiosyncratic notes on computational economics and modern 
 To eventually turn them into a graduate-level course on ML and computational economics.
 
 ## Notes on Deep Learning
-1. **Linear-Quadratic Dynamic Programming** 
-   **Application:** A Firm with quadratic adjustment cost facing a linear demand 
-   **Code and notes:** [LQ](https://github.com/Mekahou/Notes/blob/main/deep_learning/Linear_Quadratic.ipynb) 
+1. **Linear-Quadratic Dynamic Programming**  
+   **Application:** A Firm with quadratic adjustment cost facing a linear demand  
+   **Code and notes:** [LQ](https://github.com/Mekahou/Notes/blob/main/deep_learning/Linear_Quadratic.ipynb)  
    
 
 https://github.com/user-attachments/assets/aa40926a-bf19-4f68-92c6-8c52e6aac552
